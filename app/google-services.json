@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995225889869",
+    "project_id": "myfirebase-c0961",
+    "storage_bucket": "myfirebase-c0961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995225889869:android:a9eb320eefe3d27ac58004",
+        "android_client_info": {
+          "package_name": "com.alsharany.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995225889869-03hontmha70opou054nfegosfaee5a4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzkSF1oVff9LvIuWiMYbNsZHQGc1kPGG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995225889869-03hontmha70opou054nfegosfaee5a4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
